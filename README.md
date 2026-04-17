@@ -772,8 +772,8 @@ HI
             <div class="testimonial-head">
               <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="">
               <div>
-                <h5 class="text-primary mb-1">Partenaire innovation</h5>
-                <small class="text-uppercase">AgriTech</small>
+                <h5 class="text-primary mb-1">FOUNDER</h5>
+                <small class="text-uppercase">AgriTech ELECTRONICS</small>
               </div>
             </div>
             <div class="testimonial-body">
